@@ -5,7 +5,7 @@
 @realDonaldTrump's twitter profile
 
 ### Tweets
-3224 tweets made in the period between **Jan 01 13:37:52 +0000 2018** and **Tue Oct 11 21:35:41 +0000 2016**
+3,224 tweets made in the period between **Jan 01 13:37:52 +0000 2018** and **Tue Oct 11 21:35:41 +0000 2016**
 
 ### Followers
 55,500 followers of @realDonaldTrump
